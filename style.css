@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+th{
+    background-color: aqua;
+}
+td{
+    background-color: blueviolet;
+}
